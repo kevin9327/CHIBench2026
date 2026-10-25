@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "case_id": "pa_um_t014",
+  "intercepted_violation": [
+    "adverse_determination_requires_md_review"
+  ],
+  "completed_stages": [
+    "intake",
+    "md_review",
+    "nurse_review",
+    "outcome",
+    "triage"
+  ],
+  "overall_pass_at_1_ablation": 0.547,
+  "overall_pass_cubed_ablation": 0.467
+}
